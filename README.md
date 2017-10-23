@@ -6,6 +6,9 @@
 * auto_square.java
 	* 応用課題1のプログラム
 	* Sierpinski carpetという図形 
+* auto_spiral.java
+	* 応用課題2のプログラム(螺旋)
+	* 多分フラクタル図形…ではない．
 * Applet.html
 	* アプレットビューワー起動用のHTMLコード
 * **.class
@@ -17,5 +20,5 @@
 
 	Appletviewr Applet.html
 	
-初期時点では`auto_spuare.class`の図形が起動するようになっているため，別のソースを使用したい場合には，  
-**Applet.html**の`code="auto_square.class"`の部分をその都度書き換える必要がある． 
+初期時点では`auto_spiral.class`の図形が起動するようになっているため，別のソースを使用したい場合には，  
+**Applet.html**の`code="auto_spiral.class"`の部分をその都度書き換える必要がある． 
